@@ -20,3 +20,8 @@ lst
 vec2<-c("2.0","ds")
 vec2
 class(vec2)
+
+#added matrices
+matrix1<-matrix(c(1,2,3,4),nrow = 2,ncol=2,byrow =TRUE)
+matrix1
+class(matrix1)
