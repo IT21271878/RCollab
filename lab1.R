@@ -13,4 +13,10 @@ gender
 
 fac<-factor(gender,c(0,1),c("M","F"))
 fac
-cl
+getwd()
+
+lst<-list(gender,fac,w)
+lst
+vec2<-c("2.0","ds")
+vec2
+class(vec2)
