@@ -20,3 +20,12 @@ lst
 vec2<-c("2.0","ds")
 vec2
 class(vec2)
+
+matrix<-matrix(c(1,2,3,4),nrow = 2,ncol=2,byrow=FALSE)
+matrix
+ 
+a<-c(1,2,3,4,5)
+b<-c(1,2,3,4,5)
+
+data<-data.frame(a,b)
+data
